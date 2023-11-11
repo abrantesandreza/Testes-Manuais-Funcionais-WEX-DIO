@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém a documentação essencial para a execução de testes manuais funcionais do bootcamp WEX | DIO . Aqui, você encontrará informações detalhadas sobre a estrutura e execução dos testes, bem como recursos adicionais, como documentação no Jira, planejamento do fluxo de trabalho, histórias de usuários, fluxo de vida do bug, testes BDD, testes step-by-step, mind maps, casos e cenários de teste.
+Este repositório contém a documentação essencial para a execução de testes manuais funcionais do bootcamp WEX | DIO. Aqui, você encontrará informações detalhadas sobre a estrutura e execução dos testes, bem como recursos adicionais, como documentação no Jira, planejamento do fluxo de trabalho, histórias de usuários, fluxo de vida do bug, testes BDD, testes step-by-step, mind maps, casos e cenários de teste.
 
 ## Conteúdo
 
